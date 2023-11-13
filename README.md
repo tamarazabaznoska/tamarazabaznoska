@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamarazabaznoska
 - 👀 I’m interested in creative coding and software testing
-- 🌱 I’m currently learning TouchDesigner
+- 🌱 I’m currently exploring generative art via TouchDesigner
 - 💞️ I’m looking to collaborate on QA Manual/Automation projects 
 - 📫 How to reach me zabaznoskat@gmail.com
 
